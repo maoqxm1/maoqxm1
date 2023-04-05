@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a student of Northern Michigan University.
+I'm a student from Northern Michigan University.
+
 Glad to meet you~
 
 <!--
